@@ -51,6 +51,7 @@ brew cask install --appdir="/Applications" cyberduck
 brew cask install --appdir="/Applications" psequel
 brew cask install --appdir="/Applications" sequelpro
 brew cask install --appdir="/Applications" simplenote
+brew cask install --appdir="/Applications" clipy
 
 brew cask install google-cloud-sdk
 brew install awscli
