@@ -46,8 +46,12 @@ brew cask install --appdir="/Applications" macdown
 brew cask install --appdir="/Applications" 1password
 brew cask install --appdir="/Applications" virtualbox
 brew cask install --appdir="/Applications" microsoft-remote-desktop-beta
-brew cask install --appdir="/Applications" filezilla
 brew cask install --appdir="/Applications" wireshark
+brew cask install --appdir="/Applications" cyberduck
+brew cask install --appdir="/Applications" psequel
+brew cask install --appdir="/Applications" sequelpro
+brew cask install --appdir="/Applications" simplenote
+
 brew cask install google-cloud-sdk
 brew install awscli
 brew cask install chefdk
