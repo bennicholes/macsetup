@@ -52,6 +52,21 @@ brew cask install --appdir="/Applications" psequel
 brew cask install --appdir="/Applications" sequelpro
 brew cask install --appdir="/Applications" simplenote
 brew cask install --appdir="/Applications" clipy
+brew cask install --appdir="/Applications" spotify
+brew cask install --appdir="/Applications" keybase
+brew cask install --appdir="/Applications" pycharm-ce
+brew cask install --appdir="/Applications" broomstick
+brew cask install --appdir="/Applications" helium
+brew cask install --appdir="/Applications" disk-inventory-x
+brew cask install --appdir="/Applications" soulseek
+brew cask install --appdir="/Applications" private-internet-access
+brew cask install --appdir="/Applications" linkliar
+brew cask install --appdir="/Applications" deluge
+brew cask install --appdir="/Applications" plex-media-server
+brew cask install --appdir="/Applications" vagrant
+brew cask install --appdir="/Applications" intellij-idea-ce
+brew cask install --appdir="/Applications" fork
+brew cask install --appdir="/Applications" cheatsheet
 
 brew cask install google-cloud-sdk
 brew install awscli
@@ -60,6 +75,9 @@ brew cask install chefdk
 
 #Communication Apps
 brew cask install --appdir="/Applications" slack
+brew cask install --appdir="/Applications" whatsapp
+brew cask install --appdir="/Applications" telegram
+
 
 #Web Tools
 brew cask install --appdir="/Applications" google-chrome
